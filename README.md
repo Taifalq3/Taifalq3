@@ -1,4 +1,4 @@
-# Hello, I’m [Taif][website] 👋
+# Hello, I’m Taif 👋
 
 ### A Junior Data Scientist
 
@@ -59,4 +59,3 @@
 
 
 
-[website]: https://noufalharthi.netlify.app/
